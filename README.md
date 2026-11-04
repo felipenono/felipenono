@@ -45,11 +45,11 @@ Em transição estratégica do varejo para a tecnologia, unindo forte capacidade
 Sistema web responsivo para comunicação entre escola e família, focado em segurança (LGPD) e usabilidade.
 * **Tech:** React, Node.js, MySQL, API REST.
 * **Destaque:** Autenticação por perfis, fluxo de auditoria e proteção contra SQL Injection.
-* **Link:** [link do repositório do COLLISION](https://github.com/2026-2-NADS2/Projeto3.git)
+* [link do repositório do COLLISION](https://github.com/2026-2-NADS2/Projeto3.git)
 
 ### 🎮 Jogo do Batman
 Projeto pessoal focado em lógica de programação e interatividade, desenvolvido para consolidar fundamentos de algoritmos e estruturas de decisão.
-* **Link:** [link do repositório do Jogo](https://github.com/felipenono/batman_-gotham-nights.git)
+*  [link do repositório do Jogo](https://github.com/felipenono/batman_-gotham-nights.git)
 
 ## 📚 Estudos e Práticas (Learning Log)
 Acredito no aprendizado contínuo. Esta seção reúne meus códigos de estudo e resoluções de exercícios.
