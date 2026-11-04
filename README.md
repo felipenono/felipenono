@@ -19,7 +19,7 @@ Sou um profissional em transição do varejo para a tecnologia, unindo 5 anos de
 
 ## 📌 Projetos em Destaque
 
-### 🏫 KFKA - Plataforma de Acompanhamento Escolar
+### 🏫 COLLISIUM - Plataforma de Acompanhamento Escolar
 Sistema web responsivo para comunicação entre escola e família, focado em segurança (LGPD) e usabilidade.
 * **Tech:** React, Node.js, MySQL, API REST.
 * **Destaque:** Autenticação por perfis, fluxo de auditoria e proteção contra SQL Injection.
@@ -27,7 +27,7 @@ Sistema web responsivo para comunicação entre escola e família, focado em seg
 
 ### 🎮 Jogo do Batman
 Projeto pessoal focado em lógica de programação e interatividade, desenvolvido para consolidar fundamentos de algoritmos e estruturas de decisão.
-* **Link:** [Adicione o link do repositório do Jogo aqui]
+* **Link:** [link do repositório do Jogo](https://github.com/felipenono/batman_-gotham-nights.git)
 
 ## 📚 Estudos e Práticas (Learning Log)
 Acredito no aprendizado contínuo. Esta seção reúne meus códigos de estudo e resoluções de exercícios.
