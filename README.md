@@ -19,11 +19,11 @@ Sou um profissional em transição do varejo para a tecnologia, unindo 5 anos de
 
 ## 📌 Projetos em Destaque
 
-### 🏫 COLLISIUM - Plataforma de Acompanhamento Escolar
+### 🏫 COLLISIUN - Plataforma de Acompanhamento Escolar
 Sistema web responsivo para comunicação entre escola e família, focado em segurança (LGPD) e usabilidade.
 * **Tech:** React, Node.js, MySQL, API REST.
 * **Destaque:** Autenticação por perfis, fluxo de auditoria e proteção contra SQL Injection.
-* **Link:** [Adicione o link do repositório do KFKA aqui]
+* **Link:** [link do repositório do COLLISION](https://github.com/2026-2-NADS2/Projeto3.git)
 
 ### 🎮 Jogo do Batman
 Projeto pessoal focado em lógica de programação e interatividade, desenvolvido para consolidar fundamentos de algoritmos e estruturas de decisão.
@@ -32,9 +32,9 @@ Projeto pessoal focado em lógica de programação e interatividade, desenvolvid
 ## 📚 Estudos e Práticas (Learning Log)
 Acredito no aprendizado contínuo. Esta seção reúne meus códigos de estudo e resoluções de exercícios.
 
-*   🐍 **[Python - Desafios e Algoritmos](link_do_repositorio_estudos-python):** Resoluções de problemas e exercícios do curso Cisco.
-*   🎯 **[C# - Exercícios Práticos](link_do_repositorio_estudos-csharp):** Práticas de POO e lógica aplicada com .NET.
-*   🌐 **[HTML, CSS & JavaScript](link_do_repositorio_estudos-frontend):** Construção de layouts, manipulação de DOM e lógica web.
+*   🐍 **[Python - Desafios e Algoritmos](https://github.com/felipenono/estudos-python.git):** Resoluções de problemas.
+*   🎯 **[C# - Exercícios Práticos](https://github.com/felipenono/estudos-csharp.git):** Práticas de POO e lógica aplicada com .NET.
+*   🌐 **[HTML, CSS & JavaScript](https://github.com/felipenono/estudos-frontend.git):** Construção de layouts, manipulação de DOM e lógica web.
 
 ---
 ## 📫 Vamos conversar?
